@@ -1,10 +1,5 @@
 # 🚀 AmneziaWG Peers Speed Limit
 
-![version](https://img.shields.io/badge/version-v1.0-green)
-![bash](https://img.shields.io/badge/bash-script-blue)
-![platform](https://img.shields.io/badge/platform-linux-lightgrey)
-![status](https://img.shields.io/badge/status-stable-brightgreen)
-
 [![English](https://img.shields.io/badge/🇬🇧-English-blue?style=for-the-badge)](README.md)
 [![Русский](https://img.shields.io/badge/🇷🇺-Русский-green?style=for-the-badge)](README_RU.md)
 
@@ -17,6 +12,11 @@
 ✔ No daemon
 ✔ Minimal CPU usage
 ✔ Designed for Amnezia VPN
+
+![version](https://img.shields.io/badge/version-v1.0-green)
+![bash](https://img.shields.io/badge/bash-script-blue)
+![platform](https://img.shields.io/badge/platform-linux-lightgrey)
+![status](https://img.shields.io/badge/status-stable-brightgreen)
 
 ---
 
