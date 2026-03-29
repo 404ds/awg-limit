@@ -20,8 +20,6 @@ Lightweight tool to **limit bandwidth per WireGuard peer** inside AmneziaWG Dock
 
 ---
 
-## 🖼 Screenshot
-
 ![demo](awg-limit.png)
 
 ---
