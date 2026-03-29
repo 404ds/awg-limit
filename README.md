@@ -5,7 +5,8 @@
 ![platform](https://img.shields.io/badge/platform-linux-lightgrey)
 ![status](https://img.shields.io/badge/status-stable-brightgreen)
 
-[🇬🇧 EN](README.md) | [🇷🇺 RU](README.md.ru)
+[![English](https://img.shields.io/badge/🇬🇧-English-blue?style=for-the-badge)](README.md)
+[![Русский](https://img.shields.io/badge/🇷🇺-Русский-green?style=for-the-badge)](README_RU.md)
 
 ---
 
